@@ -6,6 +6,7 @@
 
 The task involved creating an NLP bot specialized in handling science-related queries. The objective was to leverage pre-trained models and fine-tune them for the specific science domain. The process involved preparing a dataset, finetuning a GPT-2 transformer, and implementing the main logic for the bot.
 
+#### 
 ### Steps Taken
 
 #### 1. Dataset Preparation
@@ -16,6 +17,7 @@ I used SciQ dataset for training the model. The dataset included questions, dist
 - Removal of distractors, retaining only questions and answers.
 
 link to dataset: https://allenai.org/data/sciq
+link to finetuned gpt2-model weights: https://drive.google.com/drive/folders/1-3NyEZNW5wJXO3vpyDksGraSsY_suZsa?usp=sharing
 
 #### 2. Model Finetuning
 
