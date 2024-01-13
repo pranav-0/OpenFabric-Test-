@@ -1,6 +1,6 @@
 # AI Junior Developer Test 
 Welcome! You’ve stepped into the arena – now show us what you’ve got! 
-## Do check notes.md for my approach.
+## Do check my_solution.md for my approach.
 ## Mission
 You're not just fiddling with code here; you're architecting the future. Your battleground? An AI app framework crying out for a brain.
 
