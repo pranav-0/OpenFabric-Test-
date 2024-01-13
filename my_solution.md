@@ -1,5 +1,9 @@
 # Task Description
 
+##IMP LINKS 
+link to dataset: https://allenai.org/data/sciq
+link to finetuned gpt2-model weights: https://drive.google.com/drive/folders/1-3NyEZNW5wJXO3vpyDksGraSsY_suZsa?usp=sharing
+link to Explaination video: https://drive.google.com/file/d/1gIwhUNFOV0g8wwZ-kyFBURGqmhUyuz6P/view?usp=sharing
 ## Build an NLP Bot for Science Queries
 
 ### Introduction
@@ -16,8 +20,7 @@ I used SciQ dataset for training the model. The dataset included questions, dist
 - Conversion from JSON to TXT format.
 - Removal of distractors, retaining only questions and answers.
 
-link to dataset: https://allenai.org/data/sciq
-link to finetuned gpt2-model weights: https://drive.google.com/drive/folders/1-3NyEZNW5wJXO3vpyDksGraSsY_suZsa?usp=sharing
+
 
 #### 2. Model Finetuning
 
