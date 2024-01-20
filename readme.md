@@ -5,7 +5,7 @@ Welcome! You’ve stepped into the arena – now show us what you’ve got!
 ### IMP LINKS 
 <b>link to dataset:</b> https://allenai.org/data/sciq <br>
 <b>link to finetuned gpt2-model weights:</b> https://drive.google.com/drive/folders/1-3NyEZNW5wJXO3vpyDksGraSsY_suZsa?usp=sharing<br>
-<b>link to Explaination video:</b> https://drive.google.com/file/d/1gIwhUNFOV0g8wwZ-kyFBURGqmhUyuz6P/view?usp=sharing
+<b>link to Explanation video:</b> https://drive.google.com/file/d/1gIwhUNFOV0g8wwZ-kyFBURGqmhUyuz6P/view?usp=sharing
 
 ## Mission
 You're not just fiddling with code here; you're architecting the future. Your battleground? An AI app framework crying out for a brain.
